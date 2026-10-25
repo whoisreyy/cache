@@ -1,0 +1,2660 @@
+{
+    "files": [
+        {
+            "name": "anim.img",
+            "path": "anim/anim.img",
+            "size": 10942464,
+            "hash": "3359ba8cb820299161199ee7ef3f1c02",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/anim/anim.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cuts.img",
+            "path": "anim/cuts.img",
+            "size": 16029696,
+            "hash": "47ed437d63709bc3b194a5781fd1b9d6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/anim/cuts.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.ifp",
+            "path": "anim/ped.ifp",
+            "size": 1433248,
+            "hash": "4736b2c90b00981255f9507308ee9174",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/anim/ped.ifp",
+            "gpu": "all"
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "path": "audio/CONFIG/AudioEventHistory.txt",
+            "size": 114056,
+            "hash": "4f15962340d51394d47a60e11cdbb608",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/AudioEventHistory.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "BankLkup.dat",
+            "path": "audio/CONFIG/BankLkup.dat",
+            "size": 8520,
+            "hash": "b45905c794677467644240aa9abc2f60",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/BankLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "BankSlot.dat",
+            "path": "audio/CONFIG/BankSlot.dat",
+            "size": 216902,
+            "hash": "da40c568a349b58c78c2a8faf8da95a9",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/BankSlot.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "EventVol.dat",
+            "path": "audio/CONFIG/EventVol.dat",
+            "size": 45402,
+            "hash": "d676adc31b1d0a95631451344892ddd2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/EventVol.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "PakFiles.dat",
+            "path": "audio/CONFIG/PakFiles.dat",
+            "size": 468,
+            "hash": "db1e657a3baafbb86cd1b715c5282c66",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/PakFiles.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "SOUNDINF.DAT",
+            "path": "audio/CONFIG/SOUNDINF.DAT",
+            "size": 746760,
+            "hash": "a220a41520d4c1e58c211835fbeca840",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/SOUNDINF.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "StrmPaks.dat",
+            "path": "audio/CONFIG/StrmPaks.dat",
+            "size": 272,
+            "hash": "6e65fd943ad6b0bbbc032e1f081ce699",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/StrmPaks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TrakLkup.dat",
+            "path": "audio/CONFIG/TrakLkup.dat",
+            "size": 23064,
+            "hash": "528e75d663b8bae072a01351081a2145",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/TrakLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TRKHEAD.DAT",
+            "path": "audio/CONFIG/TRKHEAD.DAT",
+            "size": 15506696,
+            "hash": "5f0d3c7295e8d1c7371fab89a6989723",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/CONFIG/TRKHEAD.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw",
+            "path": "audio/SFX/FEET.osw",
+            "size": 138118,
+            "hash": "e96c0b200c3437c5088ff2bd5a9054d6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/SFX/FEET.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw.idx",
+            "path": "audio/SFX/FEET.osw.idx",
+            "size": 1220,
+            "hash": "11635b4690838fae6ab1082d30a93890",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/SFX/FEET.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw",
+            "path": "audio/SFX/GENRL.osw",
+            "size": 9362373,
+            "hash": "49f36f13260ed27c40fbce4175706cd2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/SFX/GENRL.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw.idx",
+            "path": "audio/SFX/GENRL.osw.idx",
+            "size": 20868,
+            "hash": "1430abad9623bcc316638c75017c1261",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/SFX/GENRL.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw",
+            "path": "audio/SFX/PAIN_A.osw",
+            "size": 3247335,
+            "hash": "6e2ec42799b7e6f366437e5cb4d04911",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/SFX/PAIN_A.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw.idx",
+            "path": "audio/SFX/PAIN_A.osw.idx",
+            "size": 12836,
+            "hash": "aeb673a62ca2b30244a049429b1e1265",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/SFX/PAIN_A.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw",
+            "path": "audio/STREAMS/AA.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/AA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw.idx",
+            "path": "audio/STREAMS/AA.osw.idx",
+            "size": 1522,
+            "hash": "7d3d3960131764d70b1b268ee5d332f7",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/AA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw",
+            "path": "audio/STREAMS/ADVERTS.osw",
+            "size": 3516982,
+            "hash": "4ded1e1f6d9b3917617d495f5d063a13",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/ADVERTS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw.idx",
+            "path": "audio/STREAMS/ADVERTS.osw.idx",
+            "size": 1591,
+            "hash": "22e59aad9134b004dc4451ac31e123aa",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/ADVERTS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw",
+            "path": "audio/STREAMS/AMBIENCE.osw",
+            "size": 22719112,
+            "hash": "83a80c9403ceffd1d9c225c300caec32",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/AMBIENCE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw.idx",
+            "path": "audio/STREAMS/AMBIENCE.osw.idx",
+            "size": 924,
+            "hash": "f4713422eb3a13f8050fe963397cd454",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/AMBIENCE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw",
+            "path": "audio/STREAMS/BEATS.osw",
+            "size": 9415375,
+            "hash": "d04cd2d6190f1c39c1251a66a5651f14",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/BEATS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw.idx",
+            "path": "audio/STREAMS/BEATS.osw.idx",
+            "size": 234,
+            "hash": "25ad0a62f7324958d14ebdd63032bcf0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/BEATS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw",
+            "path": "audio/STREAMS/CH.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw.idx",
+            "path": "audio/STREAMS/CH.osw.idx",
+            "size": 2994,
+            "hash": "c73c042a6522b5a7d35d8e22333f0adb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw",
+            "path": "audio/STREAMS/CO.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CO.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw.idx",
+            "path": "audio/STREAMS/CO.osw.idx",
+            "size": 3569,
+            "hash": "d876639142072405c9e3d74b80fc11bf",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CO.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw",
+            "path": "audio/STREAMS/CR.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw.idx",
+            "path": "audio/STREAMS/CR.osw.idx",
+            "size": 3592,
+            "hash": "4c6821f5770d5c5049b121c4eaca06e0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw",
+            "path": "audio/STREAMS/CUTSCENE.osw",
+            "size": 301175,
+            "hash": "f0ba6914f2152e2eb98b0f18e6e6a40a",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CUTSCENE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw.idx",
+            "path": "audio/STREAMS/CUTSCENE.osw.idx",
+            "size": 3247,
+            "hash": "1b2f53c874854fee1e8ad76ca1acc219",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/CUTSCENE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw",
+            "path": "audio/STREAMS/DS.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/DS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw.idx",
+            "path": "audio/STREAMS/DS.osw.idx",
+            "size": 4121,
+            "hash": "545a2017199e4559c5c21718a9a9d2ac",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/DS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw",
+            "path": "audio/STREAMS/HC.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/HC.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw.idx",
+            "path": "audio/STREAMS/HC.osw.idx",
+            "size": 2649,
+            "hash": "c512967bedfc33bc90fcf430af54f356",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/HC.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw",
+            "path": "audio/STREAMS/MH.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/MH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw.idx",
+            "path": "audio/STREAMS/MH.osw.idx",
+            "size": 3500,
+            "hash": "018ad9b23fa611d6cc631f903fa95fbc",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/MH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw",
+            "path": "audio/STREAMS/MR.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/MR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw.idx",
+            "path": "audio/STREAMS/MR.osw.idx",
+            "size": 3385,
+            "hash": "ca335e98341486d7423dad1705b6c3fa",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/MR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw",
+            "path": "audio/STREAMS/NJ.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/NJ.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw.idx",
+            "path": "audio/STREAMS/NJ.osw.idx",
+            "size": 2994,
+            "hash": "8d9c6d51e2b6187a87d2151108333483",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/NJ.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw",
+            "path": "audio/STREAMS/RE.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/RE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw.idx",
+            "path": "audio/STREAMS/RE.osw.idx",
+            "size": 3707,
+            "hash": "aa9bc67d96f8b9440ac643df8abbf87f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/RE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw",
+            "path": "audio/STREAMS/RG.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/RG.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw.idx",
+            "path": "audio/STREAMS/RG.osw.idx",
+            "size": 3914,
+            "hash": "e801c09baf64a2944a0826933df3c271",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/RG.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw",
+            "path": "audio/STREAMS/TK.osw",
+            "size": 15462,
+            "hash": "fc1179502b4313a197e05bc42e6005ba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/TK.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw.idx",
+            "path": "audio/STREAMS/TK.osw.idx",
+            "size": 2327,
+            "hash": "b10ccdf74ab7e576e082ac6f13a893a1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/audio/STREAMS/TK.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default1280x720.cfg",
+            "path": "data/360Default1280x720.cfg",
+            "size": 10700,
+            "hash": "3a23e83a3c96b4517143404e40af86fe",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/360Default1280x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default960x720.cfg",
+            "path": "data/360Default960x720.cfg",
+            "size": 10688,
+            "hash": "20bc731bebc6abea43b7ea6f6f5b7646",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/360Default960x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "animgrp.dat",
+            "path": "data/animgrp.dat",
+            "size": 3096,
+            "hash": "6a484b0b2356c524207d939487f1bff1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/animgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ar_stats.dat",
+            "path": "data/ar_stats.dat",
+            "size": 3593,
+            "hash": "a98936b0f3523f23cad2eacc0eaf7a9b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/ar_stats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carcols.dat",
+            "path": "data/carcols.dat",
+            "size": 15361,
+            "hash": "2b33843e79bd113873a5d0fb02157749",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/carcols.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "cargrp.dat",
+            "path": "data/cargrp.dat",
+            "size": 3909,
+            "hash": "7ab78f1ac51aa79cf2b65631dc4c011f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/cargrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carmods.dat",
+            "path": "data/carmods.dat",
+            "size": 8763,
+            "hash": "142ea68e6c8214dc83fd4cab5365b678",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/carmods.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "clothes.dat",
+            "path": "data/clothes.dat",
+            "size": 5317,
+            "hash": "8762637e580eb936111859ffa29bddb4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/clothes.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "colorcycle.dat",
+            "path": "data/colorcycle.dat",
+            "size": 13612,
+            "hash": "a2340bb6f2e7f3f5de5fb88860df4ffe",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/colorcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "Cop.ped",
+            "path": "data/Decision/Allowed/Cop.ped",
+            "size": 4908,
+            "hash": "2b2456482e8719e8c64877070fecee7f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/Cop.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Fireman.ped",
+            "path": "data/Decision/Allowed/Fireman.ped",
+            "size": 4435,
+            "hash": "99ef637f82455921c9572fede370e33b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/Fireman.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "GangMbr.ped",
+            "path": "data/Decision/Allowed/GangMbr.ped",
+            "size": 6194,
+            "hash": "cd6e25e2a07fa5e1cc2f0d952c51f3af",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/GangMbr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Indoors.ped",
+            "path": "data/Decision/Allowed/Indoors.ped",
+            "size": 2809,
+            "hash": "5071731f4fd49d79b0562c7dec9a673b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/Indoors.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_empty.ped",
+            "path": "data/Decision/Allowed/m_empty.ped",
+            "size": 982,
+            "hash": "149d0c778cab34b995d3958f44eeb18b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/m_empty.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_norm.ped",
+            "path": "data/Decision/Allowed/m_norm.ped",
+            "size": 4142,
+            "hash": "d6ed517e1e6809c6ad0e9e2c163f410e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/m_norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_plyr.ped",
+            "path": "data/Decision/Allowed/m_plyr.ped",
+            "size": 2000,
+            "hash": "50ec4c398f482bbe9428e1011b4bc0b2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/m_plyr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_steal.ped",
+            "path": "data/Decision/Allowed/m_steal.ped",
+            "size": 3663,
+            "hash": "ea0e40c00071a4a9446c19b12bf5a035",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/m_steal.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_tough.ped",
+            "path": "data/Decision/Allowed/m_tough.ped",
+            "size": 3980,
+            "hash": "be9ea5daacc227b8383b9c84a5b3fa9b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/m_tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_weak.ped",
+            "path": "data/Decision/Allowed/m_weak.ped",
+            "size": 4062,
+            "hash": "03dc3abafa80abec285adc0bddee6777",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/m_weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "MISSION.grp",
+            "path": "data/Decision/Allowed/MISSION.grp",
+            "size": 2758,
+            "hash": "837dd1e06da29bf5d7210a9074164cf2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/MISSION.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Norm.ped",
+            "path": "data/Decision/Allowed/R_Norm.ped",
+            "size": 6450,
+            "hash": "75d670db732344ec3f90e7db71b1e3a6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/R_Norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Tough.ped",
+            "path": "data/Decision/Allowed/R_Tough.ped",
+            "size": 6378,
+            "hash": "b3e4ca143c1bbcbf99ebf70ef95e7343",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/R_Tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Weak.ped",
+            "path": "data/Decision/Allowed/R_Weak.ped",
+            "size": 6289,
+            "hash": "3cddd65754ad3c6ee8aec71b8a69b6c3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/R_Weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.grp",
+            "path": "data/Decision/Allowed/RANDOM.grp",
+            "size": 4623,
+            "hash": "cda22c3bed5dd3742542084461082d24",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/RANDOM.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.ped",
+            "path": "data/Decision/Allowed/RANDOM.ped",
+            "size": 4142,
+            "hash": "d6ed517e1e6809c6ad0e9e2c163f410e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/RANDOM.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM2.grp",
+            "path": "data/Decision/Allowed/RANDOM2.grp",
+            "size": 4623,
+            "hash": "25cfafb3b7da432277bfa1291df4d58d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/Allowed/RANDOM2.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "PedEvent.txt",
+            "path": "data/Decision/PedEvent.txt",
+            "size": 1298,
+            "hash": "e4fa5caa1558f2945294a3652e6f0cde",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/Decision/PedEvent.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "default.dat",
+            "path": "data/default.dat",
+            "size": 577,
+            "hash": "8e133355396761bd5cd16bf873154b30",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/default.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "default.ide",
+            "path": "data/default.ide",
+            "size": 4679,
+            "hash": "5b6d75bae827e2d88f24f2be66a037bb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/default.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "fonts.dat",
+            "path": "data/fonts.dat",
+            "size": 3576,
+            "hash": "dd73451954efe3f030c0da2ce9732d69",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/fonts.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "furnitur.dat",
+            "path": "data/furnitur.dat",
+            "size": 16480,
+            "hash": "3199fc8b81a4c5334a497508fe408afd",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/furnitur.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gridref.dat",
+            "path": "data/gridref.dat",
+            "size": 1498,
+            "hash": "795a9c013ee683e286768e06e4a5e2d7",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/gridref.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "path": "data/gta.dat",
+            "size": 3776,
+            "hash": "2d2e4f7f05e2d82b25c88707096d3393",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "path": "data/handling.cfg",
+            "size": 64532,
+            "hash": "351ef92fc22fa3c1042dd26b1cd73a30",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/handling.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "info.zon",
+            "path": "data/info.zon",
+            "size": 28139,
+            "hash": "7df10bed5404a2f7669cdfaa47b8b81b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/info.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "mainV1.scm",
+            "path": "data/mainV1.scm",
+            "size": 3169778,
+            "hash": "6f8801c5fb1949bf53b8f38bf6a4ab71",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/mainV1.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "map.zon",
+            "path": "data/map.zon",
+            "size": 436,
+            "hash": "79d255c7a27bb49b50d680390e908e5a",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/map.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "Audiozon.ipl",
+            "path": "data/maps/Audiozon.ipl",
+            "size": 10802,
+            "hash": "bc3d7fc5a6927b61c10acda92e7e20c0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/Audiozon.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ide",
+            "path": "data/maps/country/countn2.ide",
+            "size": 35439,
+            "hash": "a962748a2b61e10e927cb6238ef4df80",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ipl",
+            "path": "data/maps/country/countn2.ipl",
+            "size": 41665,
+            "hash": "0727df5077b9a6bb7e3e23c1c3990da9",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ide",
+            "path": "data/maps/country/countrye.ide",
+            "size": 34529,
+            "hash": "6b46395e665582255b67b5082ad7f667",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countrye.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ipl",
+            "path": "data/maps/country/countrye.ipl",
+            "size": 49301,
+            "hash": "5033cf4354baaad2a521031a1b318df0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countrye.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ide",
+            "path": "data/maps/country/countryN.ide",
+            "size": 11308,
+            "hash": "ad384494c4d2d94683d2c51cef390395",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countryN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ipl",
+            "path": "data/maps/country/countryN.ipl",
+            "size": 14407,
+            "hash": "443490bda181e7f87e74fcc7704f2500",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countryN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ide",
+            "path": "data/maps/country/countryS.ide",
+            "size": 18450,
+            "hash": "85792d5a12621e879cc59ed87db82480",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countryS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ipl",
+            "path": "data/maps/country/countryS.ipl",
+            "size": 33835,
+            "hash": "8d1bd4b5d337139ff3a953d44fc2b0e3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countryS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryW.ide",
+            "path": "data/maps/country/countryW.ide",
+            "size": 19704,
+            "hash": "b8d0fdd9f7223ded76f4b5f6700fcb6f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countryW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryw.ipl",
+            "path": "data/maps/country/countryw.ipl",
+            "size": 35057,
+            "hash": "a46e0560ee61446cbb4d531d99dec553",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/countryw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "counxref.ide",
+            "path": "data/maps/country/counxref.ide",
+            "size": 8494,
+            "hash": "67473a3c459f7b3998b498190b72cf62",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/country/counxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "cull.ipl",
+            "path": "data/maps/cull.ipl",
+            "size": 104318,
+            "hash": "7d723b80560f956bddb8d97ed66086b8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/cull.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "barriers.ide",
+            "path": "data/maps/generic/barriers.ide",
+            "size": 1437,
+            "hash": "d22010cd9522b19bf07efbc421872add",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/generic/barriers.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic.ide",
+            "path": "data/maps/generic/dynamic.ide",
+            "size": 4611,
+            "hash": "319e6aea03de0c05e075a1f15ed1ce8c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/generic/dynamic.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic2.ide",
+            "path": "data/maps/generic/dynamic2.ide",
+            "size": 10510,
+            "hash": "84b33bece396644d2b197320d0ea9886",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/generic/dynamic2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "multiobj.ide",
+            "path": "data/maps/generic/multiobj.ide",
+            "size": 5020,
+            "hash": "63d672310c0cf0efaa8b96c584dd407a",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/generic/multiobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.ide",
+            "path": "data/maps/generic/procobj.ide",
+            "size": 4755,
+            "hash": "bf592e31a663405116a68b63e7d2c49f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/generic/procobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegepart.ide",
+            "path": "data/maps/generic/vegepart.ide",
+            "size": 8062,
+            "hash": "b9c84559de97b49ce2036498b3d504d5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/generic/vegepart.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ide",
+            "path": "data/maps/interior/gen_int1.ide",
+            "size": 2747,
+            "hash": "8cdc36bf580a82bf281c9d3a257d4742",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int1.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ipl",
+            "path": "data/maps/interior/gen_int1.ipl",
+            "size": 21074,
+            "hash": "eb13aff288ed3876354a326a22f29d93",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int1.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ide",
+            "path": "data/maps/interior/gen_int2.ide",
+            "size": 10941,
+            "hash": "9b55e0b126ef22f3703b5ccf5bb1b174",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ipl",
+            "path": "data/maps/interior/gen_int2.ipl",
+            "size": 1683,
+            "hash": "5efb82b23a9462cbf4c1d0ba6dbc9fd4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ide",
+            "path": "data/maps/interior/gen_int3.ide",
+            "size": 3252,
+            "hash": "5119e846419e50bbc35bd57415d4376e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int3.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ipl",
+            "path": "data/maps/interior/gen_int3.ipl",
+            "size": 2091,
+            "hash": "e14d644ed3a26d5711704f875f2c11e1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ide",
+            "path": "data/maps/interior/gen_int4.ide",
+            "size": 2323,
+            "hash": "16c7dba5af8ae61172599f29ed9dd6c0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int4.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ipl",
+            "path": "data/maps/interior/gen_int4.ipl",
+            "size": 1185,
+            "hash": "339028d9c3aac53a8a28212179fced01",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ide",
+            "path": "data/maps/interior/gen_int5.ide",
+            "size": 4682,
+            "hash": "1f183baa44e0b759c2917c34ac23d3b5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int5.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ipl",
+            "path": "data/maps/interior/gen_int5.ipl",
+            "size": 2988,
+            "hash": "0acd219bca22d7cb8c8b50d738c3275c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_int5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ide",
+            "path": "data/maps/interior/gen_intb.ide",
+            "size": 5459,
+            "hash": "48a554b28c8045c21b6ed0905a76768f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_intb.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ipl",
+            "path": "data/maps/interior/gen_intb.ipl",
+            "size": 1626,
+            "hash": "663b75b0898db03687d5e6edb1d3b7f8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/gen_intb.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ide",
+            "path": "data/maps/interior/int_cont.ide",
+            "size": 385,
+            "hash": "f811cdbcfd62ad7c8bf4be61c2d89855",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_cont.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ipl",
+            "path": "data/maps/interior/int_cont.ipl",
+            "size": 910,
+            "hash": "5331b6ee9cbf7a976f98dc2cce6992e3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_cont.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ide",
+            "path": "data/maps/interior/int_LA.ide",
+            "size": 6004,
+            "hash": "ee9a394ae0ce8cf6f77fb82c758d7c89",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_LA.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ipl",
+            "path": "data/maps/interior/int_LA.ipl",
+            "size": 1312,
+            "hash": "2ae3c352e5de6e290dc631da053c5cfc",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_LA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ide",
+            "path": "data/maps/interior/int_SF.ide",
+            "size": 1260,
+            "hash": "cdfdb64d5254a0fc689604d000d0e29c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_SF.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ipl",
+            "path": "data/maps/interior/int_SF.ipl",
+            "size": 1334,
+            "hash": "3e8cf0138f81f0c505f245e7bbff8b28",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_SF.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ide",
+            "path": "data/maps/interior/int_veg.ide",
+            "size": 4684,
+            "hash": "3ffe6a366fcadba1a2fb3fb8166ceb31",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_veg.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ipl",
+            "path": "data/maps/interior/int_veg.ipl",
+            "size": 5299,
+            "hash": "8d8030efa3a493324016a395fd180926",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/int_veg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "propext.ide",
+            "path": "data/maps/interior/propext.ide",
+            "size": 2340,
+            "hash": "be0f534711073a19378cd30231b9d094",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/propext.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props.ide",
+            "path": "data/maps/interior/props.ide",
+            "size": 26326,
+            "hash": "b7ca66885d4fc34fe2f2083f8ed5d725",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/props.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props2.ide",
+            "path": "data/maps/interior/props2.ide",
+            "size": 21174,
+            "hash": "043a304b604db2e22d7464bcc36a41ce",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/props2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ide",
+            "path": "data/maps/interior/savehous.ide",
+            "size": 1724,
+            "hash": "19af45eb13708b6b3ed9434a42e6a929",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/savehous.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ipl",
+            "path": "data/maps/interior/savehous.ipl",
+            "size": 2959,
+            "hash": "2e79a68217244d7d99f3790b63fe3267",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/savehous.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ide",
+            "path": "data/maps/interior/stadint.ide",
+            "size": 2851,
+            "hash": "10953f74890c554dd368ff20bdbeac3d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/stadint.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ipl",
+            "path": "data/maps/interior/stadint.ipl",
+            "size": 6299,
+            "hash": "242ece3c9c070faf6751e66bfb17531c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/interior/stadint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ide",
+            "path": "data/maps/LA/LAe.ide",
+            "size": 12249,
+            "hash": "6f046fe75467807c612c7f5f0d9bc90f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ipl",
+            "path": "data/maps/LA/LAe.ipl",
+            "size": 27328,
+            "hash": "fa95160d9826c195e1b9d5128c20b35f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ide",
+            "path": "data/maps/LA/LAe2.ide",
+            "size": 21907,
+            "hash": "b0c016f4d0c9a914894055787146eb0c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAe2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ipl",
+            "path": "data/maps/LA/LAe2.ipl",
+            "size": 33651,
+            "hash": "ffa2c90e439f5bd7da317c1ad29a9495",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAe2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ide",
+            "path": "data/maps/LA/LAhills.ide",
+            "size": 10601,
+            "hash": "7b9289601c4961f461dd1f2d8b2cc0fa",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAhills.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ipl",
+            "path": "data/maps/LA/LAhills.ipl",
+            "size": 34506,
+            "hash": "4c30d0186a0c65d5be31f5a45965003a",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAhills.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ide",
+            "path": "data/maps/LA/LAn.ide",
+            "size": 11107,
+            "hash": "b24ce30c982c7bc5b8fafc58b97c0dd7",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ipl",
+            "path": "data/maps/LA/LAn.ipl",
+            "size": 14264,
+            "hash": "3f3a9e01ca47388ed62e7bd10527572f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ide",
+            "path": "data/maps/LA/LAn2.ide",
+            "size": 9565,
+            "hash": "b11043b49c9c71095a9cad47d81418cf",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ipl",
+            "path": "data/maps/LA/LAn2.ipl",
+            "size": 13185,
+            "hash": "dbcd933c5857dab676715b930f3eef1f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ide",
+            "path": "data/maps/LA/LAs.ide",
+            "size": 12575,
+            "hash": "f73f76648dc35e2b7eed800bcf699757",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ipl",
+            "path": "data/maps/LA/LAs.ipl",
+            "size": 22414,
+            "hash": "4540df6c3a170ab9b4ff3acce5a9674f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ide",
+            "path": "data/maps/LA/LAs2.ide",
+            "size": 12364,
+            "hash": "d6f69e02992be26e5606fe1b3d6c8be5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAs2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ipl",
+            "path": "data/maps/LA/LAs2.ipl",
+            "size": 38441,
+            "hash": "cf63399c3f61e8a93e0e8dc7a09e766b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAs2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ide",
+            "path": "data/maps/LA/LAw.ide",
+            "size": 9412,
+            "hash": "b1537a83c3758ef87b219cd3dcd8c7e4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ipl",
+            "path": "data/maps/LA/LAw.ipl",
+            "size": 15105,
+            "hash": "1bfe3e1fabd610dc76ab0b44e26dacc6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ide",
+            "path": "data/maps/LA/LAw2.ide",
+            "size": 11060,
+            "hash": "91ce9890027ca87158a5328417689004",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAw2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ipl",
+            "path": "data/maps/LA/LAw2.ipl",
+            "size": 18232,
+            "hash": "f220195b871833163f5c04856b03ae8d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAw2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ide",
+            "path": "data/maps/LA/LaWn.ide",
+            "size": 13092,
+            "hash": "235545b8eb93dcffcb70c1dc2ff6d5fe",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LaWn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ipl",
+            "path": "data/maps/LA/LaWn.ipl",
+            "size": 24330,
+            "hash": "0720120f5c025757ece1344df0d85a30",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LaWn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAxref.ide",
+            "path": "data/maps/LA/LAxref.ide",
+            "size": 10477,
+            "hash": "142a27d9f570081e2378c45d1749d550",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/LA/LAxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ide",
+            "path": "data/maps/leveldes/leveldes.ide",
+            "size": 360,
+            "hash": "521496c7b8e148bf65e15a2eb9cffdba",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/leveldes.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ipl",
+            "path": "data/maps/leveldes/leveldes.ipl",
+            "size": 165,
+            "hash": "4276ccba517ef022c45b39608699a8af",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/leveldes.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ide",
+            "path": "data/maps/leveldes/levelmap.ide",
+            "size": 3194,
+            "hash": "8ea3bf7c907763418a32fd7b42249d96",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/levelmap.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ipl",
+            "path": "data/maps/leveldes/levelmap.ipl",
+            "size": 4675,
+            "hash": "4fb15ec9a9bd76e47842e01cdefa2585",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/levelmap.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelxre.ide",
+            "path": "data/maps/leveldes/levelxre.ide",
+            "size": 9897,
+            "hash": "4dda3ffcee83f83ca554d85817e52198",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/levelxre.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ide",
+            "path": "data/maps/leveldes/seabed.ide",
+            "size": 12039,
+            "hash": "0779f538229decee62071e53f41d4b93",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/seabed.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ipl",
+            "path": "data/maps/leveldes/seabed.ipl",
+            "size": 23342,
+            "hash": "fbedb38d8860a71d63d30e4c0f458c86",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/leveldes/seabed.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlu.ipl",
+            "path": "data/maps/occlu.ipl",
+            "size": 1012,
+            "hash": "fbe5264b558576cff738291bc17a9c51",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/occlu.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluint.ipl",
+            "path": "data/maps/occluint.ipl",
+            "size": 2338,
+            "hash": "e89a5ae5ee074086862664b50f6881f5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/occluint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluLA.ipl",
+            "path": "data/maps/occluLA.ipl",
+            "size": 35956,
+            "hash": "a355e96c0102c3187fe75da90572b3f2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/occluLA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlusf.ipl",
+            "path": "data/maps/occlusf.ipl",
+            "size": 16114,
+            "hash": "9ac2fb7ddddfe7f71a4faad8f71a7b98",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/occlusf.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluveg.ipl",
+            "path": "data/maps/occluveg.ipl",
+            "size": 17944,
+            "hash": "394dc4170c928d4227f9c0e185d51261",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/occluveg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths.ipl",
+            "path": "data/maps/paths.ipl",
+            "size": 2658607,
+            "hash": "37426c7d5218aa13aaec2f582aaaabc4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/paths.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths2.ipl",
+            "path": "data/maps/paths2.ipl",
+            "size": 2292241,
+            "hash": "b38219724ec5eaa1dba1df4331389509",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/paths2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths3.ipl",
+            "path": "data/maps/paths3.ipl",
+            "size": 2428066,
+            "hash": "1f5f7a824575552057fe7001c54c51a9",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/paths3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths4.ipl",
+            "path": "data/maps/paths4.ipl",
+            "size": 253014,
+            "hash": "73c948a8d373623524b4fca8a2b9c25a",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/paths4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths5.ipl",
+            "path": "data/maps/paths5.ipl",
+            "size": 457678,
+            "hash": "8f3d100baff8ee2088d0b74474175250",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/paths5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ide",
+            "path": "data/maps/SF/SFe.ide",
+            "size": 16224,
+            "hash": "9895ef705b1c3b6dee56cc0f613b4be9",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ipl",
+            "path": "data/maps/SF/SFe.ipl",
+            "size": 26707,
+            "hash": "da55b24ac305b2779f46cc1509f444d8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ide",
+            "path": "data/maps/SF/SFn.ide",
+            "size": 11219,
+            "hash": "27566b5a6dce82513cfdcf65c82ca958",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ipl",
+            "path": "data/maps/SF/SFn.ipl",
+            "size": 26201,
+            "hash": "a2133c436d46396b4e1511a33bcb8870",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ide",
+            "path": "data/maps/SF/SFs.ide",
+            "size": 18948,
+            "hash": "5ff7f62b82d1c3e9cae944afbed0f6d0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ipl",
+            "path": "data/maps/SF/SFs.ipl",
+            "size": 37969,
+            "hash": "518077ea0974332c8352eb9af931d197",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ide",
+            "path": "data/maps/SF/SFSe.ide",
+            "size": 30227,
+            "hash": "e153a491cd396f3ab0696107e053a32d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFSe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ipl",
+            "path": "data/maps/SF/SFSe.ipl",
+            "size": 53359,
+            "hash": "b275b70372a6d91643e3f585325f8ddc",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFSe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ide",
+            "path": "data/maps/SF/SFw.ide",
+            "size": 16473,
+            "hash": "4103fe4fffa18c4845027fb3d7929296",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ipl",
+            "path": "data/maps/SF/SFw.ipl",
+            "size": 29247,
+            "hash": "e435f3d83ef4abcc4ce56c41767601ee",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFxref.ide",
+            "path": "data/maps/SF/SFxref.ide",
+            "size": 4631,
+            "hash": "23b00cc73b9564f739730c61a232353d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/SF/SFxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "tunnels.ipl",
+            "path": "data/maps/tunnels.ipl",
+            "size": 3230,
+            "hash": "1438622c076f6122ff6cdd03241b638c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/tunnels.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ide",
+            "path": "data/maps/vegas/vegasE.ide",
+            "size": 35542,
+            "hash": "be3e059ba348f994e320e1e366752031",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegasE.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ipl",
+            "path": "data/maps/vegas/vegasE.ipl",
+            "size": 61084,
+            "hash": "ea279d9a9d6e3addb981b5186da91424",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegasE.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasN.ide",
+            "path": "data/maps/vegas/VegasN.ide",
+            "size": 23715,
+            "hash": "6a35f16ac1b76f151be42c3860c81ffd",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/VegasN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasN.ipl",
+            "path": "data/maps/vegas/vegasN.ipl",
+            "size": 36651,
+            "hash": "e6b6cc52ad19a5e93a45d659019f7b41",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegasN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasS.ide",
+            "path": "data/maps/vegas/VegasS.ide",
+            "size": 18656,
+            "hash": "ed0cca34a8fdc556a7ca835ee0923b58",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/VegasS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasS.ipl",
+            "path": "data/maps/vegas/vegasS.ipl",
+            "size": 30343,
+            "hash": "ce4cb524d5bee74bab77029e5541b1ae",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegasS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasW.ide",
+            "path": "data/maps/vegas/VegasW.ide",
+            "size": 25456,
+            "hash": "593313a65eb9f8905c61bd02296e4468",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/VegasW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasW.ipl",
+            "path": "data/maps/vegas/vegasW.ipl",
+            "size": 49867,
+            "hash": "43989ba645119a9b287fb0e3782245e7",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegasW.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ide",
+            "path": "data/maps/vegas/vegaxref.ide",
+            "size": 5751,
+            "hash": "61c9cd72a43ca6f34788c4bde736431e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegaxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ipl",
+            "path": "data/maps/vegas/vegaxref.ipl",
+            "size": 3661,
+            "hash": "789520fd41a60f0067c802c6f00d021b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/vegas/vegaxref.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "veh_mods.ide",
+            "path": "data/maps/veh_mods/veh_mods.ide",
+            "size": 7323,
+            "hash": "e5f05eea1d6fb145bfa0d5f9950ddd54",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/maps/veh_mods/veh_mods.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "melee.dat",
+            "path": "data/melee.dat",
+            "size": 6306,
+            "hash": "b2f05657980e4a693f8ff5eadcbad8f8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/melee.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "object.dat",
+            "path": "data/object.dat",
+            "size": 126118,
+            "hash": "46a5e7dff90078842e24d9de5e92cc3e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/object.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carrec.img",
+            "path": "data/paths/carrec.img",
+            "size": 2357248,
+            "hash": "7f94ccaf1d647f581cce81a821dff2cb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/paths/carrec.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "path": "data/paths/ROADBLOX.DAT",
+            "size": 1304,
+            "hash": "2dbd1fa4fc98e4cd0d84e647b3a12fa6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/paths/ROADBLOX.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks.dat",
+            "path": "data/paths/tracks.dat",
+            "size": 25474,
+            "hash": "16b7c65078f262893e18a5d626bbedbd",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/paths/tracks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "data/paths/tracks2.dat",
+            "size": 1892,
+            "hash": "f5c1f87d1ae814a12a2aeb51e4ef27e0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/paths/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks3.dat",
+            "path": "data/paths/tracks3.dat",
+            "size": 8328,
+            "hash": "fc3e3e450c92a0cdcdf6d5bf26dda212",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/paths/tracks3.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "data/paths/tracks4.dat",
+            "size": 18347,
+            "hash": "10066144ef14c40fff4d5bd3cc147360",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/paths/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.dat",
+            "path": "data/ped.dat",
+            "size": 1276,
+            "hash": "67d960dde13228d4818e0f144adafe4e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/ped.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "pedgrp.dat",
+            "path": "data/pedgrp.dat",
+            "size": 5792,
+            "hash": "fa1731066423ba0c584e757eda946f15",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/pedgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "path": "data/peds.ide",
+            "size": 33401,
+            "hash": "f7dea69fa6ab973479b9ef0cf05d3d98",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "pedstats.dat",
+            "path": "data/pedstats.dat",
+            "size": 3604,
+            "hash": "d722c90c92f3ad5c1b531596769f61cd",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/pedstats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "plants.dat",
+            "path": "data/plants.dat",
+            "size": 9887,
+            "hash": "a2713338dbbd55898a4195e4464c6b06",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/plants.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "popcycle.dat",
+            "path": "data/popcycle.dat",
+            "size": 127108,
+            "hash": "a43f90361d1034c819a602171d8d66cb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/popcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.dat",
+            "path": "data/procobj.dat",
+            "size": 10019,
+            "hash": "7229fa03d65f135bd569c3692d67c4b3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/procobj.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "mainV1.scm",
+            "path": "data/script/mainV1.scm",
+            "size": 3169739,
+            "hash": "36817ffca15a7bb71fcd91619776abc9",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/script/mainV1.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "scriptv1.img",
+            "path": "data/script/scriptv1.img",
+            "size": 561152,
+            "hash": "5549f312b82b4e94ea529b331e836a3d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/script/scriptv1.img",
+            "gpu": "all"
+        },
+        {
+            "name": "scriptv1.img",
+            "path": "data/scriptv1.img",
+            "size": 561152,
+            "hash": "fb7f9c3cf85683d9634c6c69ad0482f3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/scriptv1.img",
+            "gpu": "all"
+        },
+        {
+            "name": "shopping.dat",
+            "path": "data/shopping.dat",
+            "size": 46875,
+            "hash": "c1086eb6c0bfa36845f2026b68519f14",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/shopping.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ShopUVs.dat",
+            "path": "data/ShopUVs.dat",
+            "size": 30509,
+            "hash": "f40d7ce24ae1ceabb6fcb06646de31d1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/ShopUVs.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "statdisp.dat",
+            "path": "data/statdisp.dat",
+            "size": 7292,
+            "hash": "3a6cabab2094de3e0b3810a40e24194c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/statdisp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surface.dat",
+            "path": "data/surface.dat",
+            "size": 576,
+            "hash": "9eb4e4e474abd5da2f3961a5ef549f9e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/surface.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfaud.dat",
+            "path": "data/surfaud.dat",
+            "size": 6530,
+            "hash": "c32c586e8ba35742e356e6525619f7c3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/surfaud.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfinfo.dat",
+            "path": "data/surfinfo.dat",
+            "size": 28106,
+            "hash": "605dd0beabccc797ce94a51a3e4a09eb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/surfinfo.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "timecyc.dat",
+            "path": "data/timecyc.dat",
+            "size": 40037,
+            "hash": "d66a121bc8f17a5b69e34b841744956c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/timecyc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhone3x2.cfg",
+            "path": "data/TouchDefaultPhone3x2.cfg",
+            "size": 10699,
+            "hash": "04a178358adebcb4194b3fb2d6958b52",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/TouchDefaultPhone3x2.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "path": "data/TouchDefaultPhoneWidescreen.cfg",
+            "size": 10715,
+            "hash": "5cd804db4508d3a2e4627a8c51f086f0",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/TouchDefaultPhoneWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTablet4x3.cfg",
+            "path": "data/TouchDefaultTablet4x3.cfg",
+            "size": 10710,
+            "hash": "293c16c0841b882c78ad7658b7327220",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/TouchDefaultTablet4x3.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "path": "data/TouchDefaultTabletWidescreen.cfg",
+            "size": 10710,
+            "hash": "720475444c3c36c9a1e317780e01dbdf",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/TouchDefaultTabletWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "txdcut.ide",
+            "path": "data/txdcut.ide",
+            "size": 478,
+            "hash": "e3c231039048a30680b8f13fb51cc4ac",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/txdcut.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "data/vehicles.ide",
+            "size": 21093,
+            "hash": "bdc3a0fced2402c5bc61585714457d4b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "water.dat",
+            "path": "data/water.dat",
+            "size": 70099,
+            "hash": "690400ecc92169d9eaddaaa948903efb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/water.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "water1.dat",
+            "path": "data/water1.dat",
+            "size": 60063,
+            "hash": "16fe5a3e8c57d02eb62a44a96d8b9d39",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/water1.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "weapon.dat",
+            "path": "data/weapon.dat",
+            "size": 11602,
+            "hash": "28f518b60b7b77bbe6d7cbe3fad594c2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/data/weapon.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_bold.ttf",
+            "path": "fonts/arial_bold.ttf",
+            "size": 352224,
+            "hash": "ce4244a1fb311a47a5949948b2dc4eab",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/fonts/arial_bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "path": "fonts/gtaweap3.ttf",
+            "size": 104004,
+            "hash": "b2138ac7ea85efb902618b3be5392ac1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/fonts/gtaweap3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "sampaux3.ttf",
+            "path": "fonts/sampaux3.ttf",
+            "size": 7376,
+            "hash": "c2a3e08860de2412ab23678cb0ea282d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/fonts/sampaux3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.col",
+            "path": "models/coll/peds.col",
+            "size": 21477,
+            "hash": "74288cbdd843c3cfb77b036a5614ae9d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/models/coll/peds.col",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.col",
+            "path": "models/coll/vehicles.col",
+            "size": 1096,
+            "hash": "c84c1a1b67d5fad3df75dd8d45fc576b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/models/coll/vehicles.col",
+            "gpu": "all"
+        },
+        {
+            "name": "weapons.col",
+            "path": "models/coll/weapons.col",
+            "size": 560,
+            "hash": "510e74e32b323eee54dd7a243b073808",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/models/coll/weapons.col",
+            "gpu": "all"
+        },
+        {
+            "name": "effects.fxp",
+            "path": "models/effects.fxp",
+            "size": 616708,
+            "hash": "94babd9e6ec73bf5d9926e041e708c4f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/models/effects.fxp",
+            "gpu": "all"
+        },
+        {
+            "name": "MINFO.BIN",
+            "path": "models/MINFO.BIN",
+            "size": 41100,
+            "hash": "2d4ca368be4e0039c90c60ba48265dd6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/models/MINFO.BIN",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "path": "SAMP/gta.dat",
+            "size": 3640,
+            "hash": "faf22cad95d0d74a9bb86ad25da8aea3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "path": "SAMP/handling.cfg",
+            "size": 64532,
+            "hash": "6868accef933f1855ec28ce193a78159",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/handling.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "main.scm",
+            "path": "SAMP/main.scm",
+            "size": 96997,
+            "hash": "c9ef3143ddc27b883a537d24cd90f1d8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/main.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "path": "SAMP/peds.ide",
+            "size": 36369,
+            "hash": "28ebe8711e4f25f06b0c950b2ef15317",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SAMP.ide",
+            "path": "SAMP/SAMP.ide",
+            "size": 89349,
+            "hash": "5a36a5df8dfcab05900c38d75acaf594",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/SAMP.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "script.img",
+            "path": "SAMP/script.img",
+            "size": 184320,
+            "hash": "89a033d7aa51fef232d99fc8edabf384",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/script.img",
+            "gpu": "all"
+        },
+        {
+            "name": "TIMECYC.DAT",
+            "path": "SAMP/TIMECYC.DAT",
+            "size": 40037,
+            "hash": "d66a121bc8f17a5b69e34b841744956c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/TIMECYC.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "SAMP/tracks2.dat",
+            "size": 1,
+            "hash": "cfcd208495d565ef66e7dff9f98764da",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "SAMP/tracks4.dat",
+            "size": 1,
+            "hash": "cfcd208495d565ef66e7dff9f98764da",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "SAMP/vehicles.ide",
+            "size": 21093,
+            "hash": "bdc3a0fced2402c5bc61585714457d4b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "WEAPON.dat",
+            "path": "SAMP/WEAPON.dat",
+            "size": 11585,
+            "hash": "0a9bb49003680364f9f9768e9bcea982",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/SAMP/WEAPON.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "stream.ini",
+            "path": "stream.ini",
+            "size": 197,
+            "hash": "05b6fdb1ff98a4ec75a58536a0c47b5e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/stream.ini",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.img",
+            "path": "texdb/gta3.img",
+            "size": 283521024,
+            "hash": "f548816d480d1939cf69c1b677a388db",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/texdb__gta3.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.dxt.dat",
+            "path": "texdb/gta3/gta3.dxt.dat",
+            "size": 185784230,
+            "hash": "bc47c0d6b9c9416d766a414cc36751c8",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/texdb__gta3__gta3.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.tmb",
+            "path": "texdb/gta3/gta3.dxt.tmb",
+            "size": 528040,
+            "hash": "e41fc95a82640f26e8d06e3a7e823e4b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.toc",
+            "path": "texdb/gta3/gta3.dxt.toc",
+            "size": 49784,
+            "hash": "610c881f6e62cb5b666631eb82a05eb8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.etc.dat",
+            "path": "texdb/gta3/gta3.etc.dat",
+            "size": 186212676,
+            "hash": "58fc722e6373507e948b48e2a97f9dc7",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/texdb__gta3__gta3.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.tmb",
+            "path": "texdb/gta3/gta3.etc.tmb",
+            "size": 578152,
+            "hash": "040db730dbd88db0d7101bac6ffb52d4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.toc",
+            "path": "texdb/gta3/gta3.etc.toc",
+            "size": 49784,
+            "hash": "74ada501e524c8a86ee4e98fc2012ca1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.pvr.dat",
+            "path": "texdb/gta3/gta3.pvr.dat",
+            "size": 115691530,
+            "hash": "e130767e16f85f2769c1f02357647f3f",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/texdb__gta3__gta3.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.tmb",
+            "path": "texdb/gta3/gta3.pvr.tmb",
+            "size": 797096,
+            "hash": "c07eb45f77665ad6934e32c609dda6bc",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.toc",
+            "path": "texdb/gta3/gta3.pvr.toc",
+            "size": 49784,
+            "hash": "9c1eb9b4d7ba77a3016493e2804b8ca8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.txt",
+            "path": "texdb/gta3/gta3.txt",
+            "size": 790644,
+            "hash": "5d6e605114d54f91d4abaf3b926e3c27",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.unc.tmb",
+            "path": "texdb/gta3/gta3.unc.tmb",
+            "size": 1468552,
+            "hash": "69b77d97176c597cce80267297110d29",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta3/gta3.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.img",
+            "path": "texdb/gta_int.img",
+            "size": 44836864,
+            "hash": "d81cd4cb77a6a021b6696bf9043bad60",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.dxt.dat",
+            "path": "texdb/gta_int/gta_int.dxt.dat",
+            "size": 48496978,
+            "hash": "87ed4beca6f0ae920149461bc257a5de",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.tmb",
+            "path": "texdb/gta_int/gta_int.dxt.tmb",
+            "size": 125994,
+            "hash": "01c7f49e1411d7a9a2d673074200cefb",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.toc",
+            "path": "texdb/gta_int/gta_int.dxt.toc",
+            "size": 10168,
+            "hash": "b8a17b9d1417c41b9f3693b75ea97818",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.etc.dat",
+            "path": "texdb/gta_int/gta_int.etc.dat",
+            "size": 48441188,
+            "hash": "27ad111fcb7bcf1af038d74d04e1a3b2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.tmb",
+            "path": "texdb/gta_int/gta_int.etc.tmb",
+            "size": 141674,
+            "hash": "8bf30ca32d7efe349254d7309e5900f8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.toc",
+            "path": "texdb/gta_int/gta_int.etc.toc",
+            "size": 10168,
+            "hash": "21277f8f01350cfd85d78e6742bed7fe",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.pvr.dat",
+            "path": "texdb/gta_int/gta_int.pvr.dat",
+            "size": 29595400,
+            "hash": "cc0c198cdebb3ed1fc52c6126359cc90",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.tmb",
+            "path": "texdb/gta_int/gta_int.pvr.tmb",
+            "size": 188330,
+            "hash": "edabe0f55eef6b08bbb17a70b83cc03d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.toc",
+            "path": "texdb/gta_int/gta_int.pvr.toc",
+            "size": 10168,
+            "hash": "8d279a90fcf8622e4f0b69e4782d9d49",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.txt",
+            "path": "texdb/gta_int/gta_int.txt",
+            "size": 159541,
+            "hash": "14a247d3a06feb2d5d655dad82e5107b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.unc.tmb",
+            "path": "texdb/gta_int/gta_int.unc.tmb",
+            "size": 352202,
+            "hash": "15d38e1b6c262540efc92b1b9f99134b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/gta_int/gta_int.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.dat",
+            "path": "texdb/menu/menu.dxt.dat",
+            "size": 7799478,
+            "hash": "3d7f85a73b951cccecc2e7c41e9d82e2",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "menu.dxt.tmb",
+            "path": "texdb/menu/menu.dxt.tmb",
+            "size": 860,
+            "hash": "84f83c8a061264840fb5b1545d966c2b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "menu.dxt.toc",
+            "path": "texdb/menu/menu.dxt.toc",
+            "size": 176,
+            "hash": "d9901f2f2746f04c13ba27e8900e86a9",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "menu.etc.dat",
+            "path": "texdb/menu/menu.etc.dat",
+            "size": 10822324,
+            "hash": "30aa5729649d437766a245e48a8428c8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "menu.etc.tmb",
+            "path": "texdb/menu/menu.etc.tmb",
+            "size": 860,
+            "hash": "84f83c8a061264840fb5b1545d966c2b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "menu.etc.toc",
+            "path": "texdb/menu/menu.etc.toc",
+            "size": 176,
+            "hash": "28a864dbb1cc5424b15ef1212d20eab5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "menu.pvr.dat",
+            "path": "texdb/menu/menu.pvr.dat",
+            "size": 10822324,
+            "hash": "30aa5729649d437766a245e48a8428c8",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "menu.pvr.tmb",
+            "path": "texdb/menu/menu.pvr.tmb",
+            "size": 860,
+            "hash": "84f83c8a061264840fb5b1545d966c2b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "menu.pvr.toc",
+            "path": "texdb/menu/menu.pvr.toc",
+            "size": 176,
+            "hash": "28a864dbb1cc5424b15ef1212d20eab5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "menu.txt",
+            "path": "texdb/menu/menu.txt",
+            "size": 3342,
+            "hash": "2a422b09cff65291c7ee5cb5d370445f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.unc.tmb",
+            "path": "texdb/menu/menu.unc.tmb",
+            "size": 860,
+            "hash": "84f83c8a061264840fb5b1545d966c2b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/menu/menu.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.dxt.dat",
+            "path": "texdb/mobile/mobile.dxt.dat",
+            "size": 7267946,
+            "hash": "dc035b96bbf5e3cc89a5fcbed75150ee",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.tmb",
+            "path": "texdb/mobile/mobile.dxt.tmb",
+            "size": 3940,
+            "hash": "efcc677bfb33570deac2858c896594c6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.toc",
+            "path": "texdb/mobile/mobile.dxt.toc",
+            "size": 792,
+            "hash": "69b1bae3daef2ff057cc0dcce1594885",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.etc.dat",
+            "path": "texdb/mobile/mobile.etc.dat",
+            "size": 8712314,
+            "hash": "7a1d3918cac2a8e08cc29dafa70bd1ea",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.tmb",
+            "path": "texdb/mobile/mobile.etc.tmb",
+            "size": 3940,
+            "hash": "efcc677bfb33570deac2858c896594c6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.toc",
+            "path": "texdb/mobile/mobile.etc.toc",
+            "size": 792,
+            "hash": "6e6f1e67984e72ed11c3d18efb897268",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.pvr.dat",
+            "path": "texdb/mobile/mobile.pvr.dat",
+            "size": 8712314,
+            "hash": "4fb465d4eb5461520761b227840692d3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.tmb",
+            "path": "texdb/mobile/mobile.pvr.tmb",
+            "size": 3940,
+            "hash": "efcc677bfb33570deac2858c896594c6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.toc",
+            "path": "texdb/mobile/mobile.pvr.toc",
+            "size": 792,
+            "hash": "6e6f1e67984e72ed11c3d18efb897268",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.txt",
+            "path": "texdb/mobile/mobile.txt",
+            "size": 14502,
+            "hash": "4f5b8440ab51c4b62b8a8734f7018656",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.unc.tmb",
+            "path": "texdb/mobile/mobile.unc.tmb",
+            "size": 3940,
+            "hash": "efcc677bfb33570deac2858c896594c6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/mobile/mobile.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.img",
+            "path": "texdb/player.img",
+            "size": 16412672,
+            "hash": "3eeff76e39c62d2874abbe8656dbd457",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/player.img",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.dat",
+            "path": "texdb/player/player.pvr.dat",
+            "size": 6569414,
+            "hash": "a1d04da0effd7228b88b2cc2a44af38c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/player/player.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "player.pvr.tmb",
+            "path": "texdb/player/player.pvr.tmb",
+            "size": 6940,
+            "hash": "05c457dd35da898f875659a3db8f52d6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/player/player.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "player.pvr.toc",
+            "path": "texdb/player/player.pvr.toc",
+            "size": 1580,
+            "hash": "ff93c115e12f79407b69fd422a40908f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/player/player.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "player.txt",
+            "path": "texdb/player/player.txt",
+            "size": 27810,
+            "hash": "53712a52f9a98a3224207a9b67788b83",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/player/player.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.dat",
+            "path": "texdb/playerhi/playerhi.pvr.dat",
+            "size": 27658902,
+            "hash": "0dc839aa289317ea221f8fb8f896f46c",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/playerhi/playerhi.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "playerhi.pvr.tmb",
+            "path": "texdb/playerhi/playerhi.pvr.tmb",
+            "size": 6940,
+            "hash": "4cd33e8a5ca03a6ea5ecc348ebaa52f3",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/playerhi/playerhi.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "playerhi.pvr.toc",
+            "path": "texdb/playerhi/playerhi.pvr.toc",
+            "size": 1580,
+            "hash": "36e2114e4d8001e615527313513b4341",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/playerhi/playerhi.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "playerhi.txt",
+            "path": "texdb/playerhi/playerhi.txt",
+            "size": 28087,
+            "hash": "a0ca027e517b7352eba72c420b5357b4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/playerhi/playerhi.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.img",
+            "path": "texdb/samp.img",
+            "size": 36902912,
+            "hash": "6fb0e8cbd413efa346be87c53171ebec",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp.img",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.dat",
+            "path": "texdb/samp/samp.dxt.dat",
+            "size": 23947304,
+            "hash": "df25dc922dde35745f2a27849d418e04",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "samp.dxt.tmb",
+            "path": "texdb/samp/samp.dxt.tmb",
+            "size": 20016,
+            "hash": "5c82b866dd55b07180a39fafe10e2a53",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "samp.dxt.toc",
+            "path": "texdb/samp/samp.dxt.toc",
+            "size": 6156,
+            "hash": "488dfe0e9c165cacc3dd4a62be40b376",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "samp.etc.dat",
+            "path": "texdb/samp/samp.etc.dat",
+            "size": 35086930,
+            "hash": "842240f87ab10ea1ed4e2c213235ecb6",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.etc.tmb",
+            "path": "texdb/samp/samp.etc.tmb",
+            "size": 20016,
+            "hash": "5c82b866dd55b07180a39fafe10e2a53",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.etc.toc",
+            "path": "texdb/samp/samp.etc.toc",
+            "size": 6156,
+            "hash": "b847575aa689529ece27ed0042d103db",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.pvr.dat",
+            "path": "texdb/samp/samp.pvr.dat",
+            "size": 15659238,
+            "hash": "618f531fad130a1bbec578b7e54cd1e1",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "samp.pvr.tmb",
+            "path": "texdb/samp/samp.pvr.tmb",
+            "size": 20016,
+            "hash": "5c82b866dd55b07180a39fafe10e2a53",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "samp.pvr.toc",
+            "path": "texdb/samp/samp.pvr.toc",
+            "size": 6156,
+            "hash": "edfbd1b6a2f51b5c7f71493476229c53",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "samp.txt",
+            "path": "texdb/samp/samp.txt",
+            "size": 89243,
+            "hash": "94a2deae4c2754f9e4edff2c84fc479e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "path": "texdb/samp/samp.unc.dat",
+            "size": 33150952,
+            "hash": "545f272663b036d106711e3bc848624e",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.unc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "path": "texdb/samp/samp.unc.tmb",
+            "size": 21168,
+            "hash": "e0b9921707fa2beb5e29e2bef3324015",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.toc",
+            "path": "texdb/samp/samp.unc.toc",
+            "size": 6156,
+            "hash": "dc1f54239b2ca11d17469a75cfd6cd28",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/samp/samp.unc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "SAMPCOL.img",
+            "path": "texdb/SAMPCOL.img",
+            "size": 4253696,
+            "hash": "1830ffedfc451c75aef2dea949d02cb5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/SAMPCOL.img",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.dat",
+            "path": "texdb/txd/txd.360.dat",
+            "size": 7625578,
+            "hash": "0c1f471d59fd6a598de33720fcb3ca57",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.360.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.tmb",
+            "path": "texdb/txd/txd.360.tmb",
+            "size": 31028,
+            "hash": "6b08237e348ca8c6b5e7452251dfd1f4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.360.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.toc",
+            "path": "texdb/txd/txd.360.toc",
+            "size": 2376,
+            "hash": "a45a554f2cfa0e5d6c9da0d5bb2b66b5",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.360.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.dat",
+            "path": "texdb/txd/txd.dxt.dat",
+            "size": 7151862,
+            "hash": "df0658c06d69699afdfc04c1d96d3a14",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "path": "texdb/txd/txd.dxt.tmb",
+            "size": 31208,
+            "hash": "f01814cd583086da8f4f7970efe0dba4",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.toc",
+            "path": "texdb/txd/txd.dxt.toc",
+            "size": 2376,
+            "hash": "71e70ccb29362046fc8f4bc0919f1f8a",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.etc.dat",
+            "path": "texdb/txd/txd.etc.dat",
+            "size": 8652596,
+            "hash": "8c6438af843898f8edbb5aa91c7ddd4d",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.tmb",
+            "path": "texdb/txd/txd.etc.tmb",
+            "size": 49576,
+            "hash": "978c697f617b8bcc0d69b90993d59596",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.toc",
+            "path": "texdb/txd/txd.etc.toc",
+            "size": 2376,
+            "hash": "f4849cd6f6d626bcf13e37e503af387b",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.pvr.dat",
+            "path": "texdb/txd/txd.pvr.dat",
+            "size": 6947420,
+            "hash": "878eef917b2c0f380d8518c78990ca06",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.tmb",
+            "path": "texdb/txd/txd.pvr.tmb",
+            "size": 25416,
+            "hash": "f9a94b5edba7a2f745a4c14de0556d77",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.toc",
+            "path": "texdb/txd/txd.pvr.toc",
+            "size": 2376,
+            "hash": "c889ef4cb2122588fd12d7da78c2ddaa",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.txt",
+            "path": "texdb/txd/txd.txt",
+            "size": 43056,
+            "hash": "ae5eb3bce99d35e26bd4eabbe124087f",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.unc.tmb",
+            "path": "texdb/txd/txd.unc.tmb",
+            "size": 60520,
+            "hash": "88b06874003164ccfa37684713df2629",
+            "url": "https://raw.githubusercontent.com/whoisreyy/cache/main/files/texdb/txd/txd.unc.tmb",
+            "gpu": "all"
+        }
+    ]
+}
