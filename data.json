@@ -1989,7 +1989,7 @@
             "path": "texdb/gta3.img",
             "size": 283521024,
             "hash": "f548816d480d1939cf69c1b677a388db",
-            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/gta3.img",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0/gta3.img",
             "gpu": "all"
         },
         {
@@ -1997,7 +1997,7 @@
             "path": "texdb/gta3/gta3.dxt.dat",
             "size": 185784230,
             "hash": "bc47c0d6b9c9416d766a414cc36751c8",
-            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/gta3.dxt.dat",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0/gta3.dxt.dat",
             "gpu": "dxt"
         },
         {
@@ -2021,7 +2021,7 @@
             "path": "texdb/gta3/gta3.etc.dat",
             "size": 186212676,
             "hash": "58fc722e6373507e948b48e2a97f9dc7",
-            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/gta3.etc.dat",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0/gta3.etc.dat",
             "gpu": "etc"
         },
         {
@@ -2045,7 +2045,7 @@
             "path": "texdb/gta3/gta3.pvr.dat",
             "size": 115691530,
             "hash": "e130767e16f85f2769c1f02357647f3f",
-            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0.0/gta3.pvr.dat",
+            "url": "https://github.com/whoisreyy/cache/releases/download/v1.0/gta3.pvr.dat",
             "gpu": "pvr"
         },
         {
